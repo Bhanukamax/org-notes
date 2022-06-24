@@ -1,0 +1,2 @@
+* What if?
+what if your text editor is just a blank text input (like a textarea) with a interpretter built in to it. Sounds like emacs, but more bare born.

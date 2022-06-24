@@ -1,0 +1,14 @@
+hi everyone, not sure if this is the right forum to ask this, I'm trying to implement a `tokenizer` with gleam, I checked the gleam lexer, I like that way beause it does not use regex, but not sure if I can do something like that with a pure functional language like `gleam` because there's no mutable state at all, I had a look at `List.fold` too but not sure if that's
+doable with it because it has
+
+self ansnwer:
+maybe i can use fold and return a uncategorized token for things in between, like
+
+Token(kind: Processing, value: 4)
+
+case token {
+ t if t.kind == Processing -> {
+    consume_char(t, new_char)
+ }
+
+}
