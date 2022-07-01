@@ -20,17 +20,20 @@ And as soon as the `plank` arrived I saw this other keyboard called `Ferrise Swe
 ------ Summery -----
 I think that's a topic for another blog post :) I'll try to give the shortest answer possible :)
 
-- I never had to go from a full size keyboard to this.
-Steps:
-- Full size keyboard from the begining of time
-- Normal Keyboard without dedicated num pads for few years.
+Short answer is: I never had to go from a full size keyboard to this.
+Summary of my keyboard journey so far:
+- Used full size keyboard from the begining of time
+- Then normal Keyboard without dedicated num pads for few years.
 - 60% mechanical keyboard (gk61, non dedicated tild key and arrow keys) - 1 year (no speed effect)
 - 40% mechanical keyboard (ZSA Plank) - 3 months (tool like 1 to 2 months to get back speed)
 - saw 32 key ferrise sweep on you tube and wanted to try that.
 : My master plan: (remove keys from plank until I go down to 32 key split layout, so I can finally build and use a `sweep` :) )
-- started stripping keys off the ZSA plank to try to hit get down to 32 keys
-- after about 2 morem months I had a 36 key plank (3rd photo) \
--
+- started stripping keys off the ZSA plank to try to hit get down to 32 keys - took about 3 more months - speed drops during this time was not very dramatic, because it was like removing one key at a time, so had very slight speed drops and came back up like in few days.
+- then buit the sweep (I was already in my normal speed by this time)
+
+These days my average speed is around 50 wpm, it used to be around 60 when I was using boards with more keys, but now I optimize for comfort than the speed.
+I think I have a mini blog post already :)
+ 
     But the short answer is i never had to go from a full size keyboard to these so it wasn't that had like it look like. I took incremental steps and it took me about 6 months to do so. 
     How I did it was I bought this keyboard called the `plank` (which is also open source) but I boughtt it from this vendor called `ZSA` (for 245 Dollar
 
