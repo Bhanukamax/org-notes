@@ -17,3 +17,12 @@ Syntax highlighting
 
 is everyone using `emacs` for `gleam` here? I have `gleam-format` working but no syntax highlighting
 is there something other than just adding `gleam-mode` and `tree-sitter-mode`, `tree-sitter-langs`
+
+* Wha is this
+** What ever this is
+
+# This is fine
+## This is
+### And this tool
+
+#### what about this

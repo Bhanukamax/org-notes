@@ -1,0 +1,63 @@
+% Created 2022-07-15 සි 11:05
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{bmax}
+\date{\today}
+\title{}
+\hypersetup{
+ pdfauthor={bmax},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 28.1 (Org mode 9.5.2)},
+ pdflang={English}}
+\begin{document}
+
+\tableofcontents
+
+\section{.another way to think about is having "motins" and "actions".}
+\label{sec:org79e9a86}
+\subsection{motions: eg:}
+\label{sec:org30e618e}
+w - move onoe word forward
+b - move to the beging of the word
+and h,j,k,l, etc
+
+\subsection{Actions: eg:}
+\label{sec:orgc3601cd}
+d - delete
+e - insert
+
+\subsection{then you can combined them to make more motions:}
+\label{sec:org72a9387}
+dw - deletet word
+db - delete to the begining of word
+ew - edit word
+
+\subsection{and with ajectives:}
+\label{sec:org955a912}
+diw - delete inside word
+eiw - edti inside word
+ei( - edit inside parans
+ei\{ - edit insde curly brace
+eit - edit inside tags
+the list goes on :)
+
+there are more motions though, like,
+f - find char
+F - find char backwords
+(then , ; to go back and forth them)
+0 - go to the beining of line
+\$ - go to the end of line
+\end{document}

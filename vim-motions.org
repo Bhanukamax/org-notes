@@ -1,0 +1,42 @@
+
+* Another way to think about is having "motins" and "actions".
+** Motions: eg:
+- w - move onoe word forward
+- b - move to the beging of the word
+- and h,j,k,l, etc
+
+** Actions: eg:
+- d - delete
+- e - edit
+
+** then you can combined them to make more motions:
+- dw - deletet word
+- db - delete to the begining of word
+- ew - edit word
+
+** Prepositions
+- i - inside
+- a - around
+
+** And with prepositions:
+- diw - delete inside word
+- eiw - edti inside word
+- ei( - edit inside parans
+- ei{ - edit insde curly brace
+- eit - edit inside tags
+- the list goes on :)
+
+** inside vs around (i,a)
+- ei( - edit inside parans -> delete the content inside the parans and put you to insert mode
+- ea( - edit arond parans -> delete the content and the parans and then put you to insert mode
+
+** delete vs edit (d,e)
+- di( - Delete inside parans -> delete the content inside parans but keeps you in nomral mode
+- ei( - Edit inside parans -> delete the content inside parans and puts you to insert mode
+
+** there are more motions though, like,
+- f - find char
+- F - find char backwords
+- (then , ; to go back and forth them)
+- 0 - go to the beining of line
+- $ - go to the end of line
